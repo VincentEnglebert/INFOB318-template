@@ -1,6 +1,6 @@
 # INFOB318-template
 
-Ce fichier reprendra les principales informations relative à votre projet:
+Ce fichier reprendra les principales informations relatives à votre projet:
 
 Acronyme: 
 Titre:
