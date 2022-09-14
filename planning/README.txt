@@ -1,1 +1,1 @@
-La planning de votre fichier actualié régulèrement
+La planning de votre fichier actualisé régulèrement
