@@ -1,1 +1,1 @@
-La planning de votre fichier actualisé régulèrement
+La planning de votre fichier actualisé CHAQUE SEMAINE
